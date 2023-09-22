@@ -12,9 +12,12 @@ This is the course homepage for CPSC 330: Applied Machine Learning at the Univer
 
 ### TAs
 - Chen Liu (chenliu5@student.ubc.ca)
+- Colleen Rideout (colleenx@student.ubc.ca)
 - Justice Sefas (jsefas@cs.ubc.ca)
+- Kaiyun Gao (gky0722@cs.ubc.ca)
 - Mahsa Zarei (mzarei@chem.ubc.ca)
 - Miranda Chan (mc835@student.ubc.ca)
+- Sparsh Trivedy (sparsh01@student.ubc.ca)
 - Vee Rajesh Bahel (bvedant@cs.ubc.ca)
 - Wilson Tu (linshuan@student.ubc.ca)
 - Yeojun Han (yeojunh@student.ubc.ca)
@@ -48,7 +51,7 @@ Usually the homework assignments will be due on Mondays (except next week) and w
 | hw2 | Sept 18, 11:59 pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2023W1/hw/) | [Gradescope](https://www.gradescope.ca/courses/11525)| 
 | hw3 | Oct 02, 11:59 pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2023W1/hw/) | [Gradescope](https://www.gradescope.ca/courses/11525)|  
 | hw4 | Oct 10, 11:59 pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2023W1/hw/) | [Gradescope](https://www.gradescope.ca/courses/11525)|  
-| **Midterm** | Oct 26 6:00 pm to 7:20 pm  | [Canvas](https://canvas.ubc.ca/courses/123439) | [Canvas](https://canvas.ubc.ca/courses/123439)
+| **Midterm** | Oct 26 6:00 pm to 7:20 pm  | In person on [Canvas](https://canvas.ubc.ca/courses/123439) ESB 1012 + CIRS 1250 | [Canvas](https://canvas.ubc.ca/courses/123439)
 | hw5 | Oct 30, 11:59 pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2023W1/hw/) | [Gradescope](https://www.gradescope.ca/courses/11525)|
 | hw6 | November 13, 11:59 pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2023W1/hw/) | [Gradescope](https://www.gradescope.ca/courses/11525)|  
 | hw7 | November 20, 11:59 pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2023W1/hw/) | [Gradescope](https://www.gradescope.ca/courses/11525)|  
